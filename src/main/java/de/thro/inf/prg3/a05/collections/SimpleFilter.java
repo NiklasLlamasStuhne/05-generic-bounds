@@ -7,6 +7,7 @@ package de.thro.inf.prg3.a05.collections;
 @FunctionalInterface
 public interface SimpleFilter<T> {
 
+
 	/**
 	 * Determines if a item matches a condition
 	 *
